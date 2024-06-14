@@ -83,5 +83,21 @@ Open GIS Data Sources in Thailand
 
 ----------
 
-## แหล่งอ้างอิงข้อมูล
-- 
+## แหล่งอ้างอิงข้อมูลอื่นๆ 
+
+- [Data Go : 0205_01_0301](https://data.go.th/dataset/0205_01_0301)
+- [Data Thailand : Thailand Provincial Boundaries](https://data.thailand.opendevelopmentmekong.net/th/dataset/thailand-provincial-boundaries)
+- [Data Humdata : COD-AB-THA](https://data.humdata.org/dataset/cod-ab-tha?)
+- [ThaiGeographers Facebook Post](https://www.facebook.com/ThaiGeographers/posts/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99-shapefile-%E0%B8%88%E0%B8%B2%E0%B8%81-openstreetmap-%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2buildings-landuse-water-roads-e/4623659161012952/?locale=hi_IN)
+- [GitHub - prasertcbs/thailand_gis](https://github.com/prasertcbs/thailand_gis)
+
+## Acknowledgement
+
+This project includes major parts that have been forked from [OpenGISData-Thailand](https://github.com/chingchai/OpenGISData-Thailand). We would like to express our gratitude for their valuable contributions and the open sharing of their GIS data. Their work has been instrumental in the development of this project. We recommend visiting their repository for more information and resources related to GIS data in Thailand.
+
+## Contact Information
+
+For more information, please contact:
+
+- Thanasak: [Thanasak.t@nhso.go.th](mailto:Thanasak.t@nhso.go.th)
+- Pariyat: [pariyat.l@nhso.go.th](mailto:pariyat.l@nhso.go.th)
