@@ -90,6 +90,7 @@ Open GIS Data Sources in Thailand
 - [Data Humdata : COD-AB-THA](https://data.humdata.org/dataset/cod-ab-tha?)
 - [ThaiGeographers Facebook Post](https://www.facebook.com/ThaiGeographers/posts/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99-shapefile-%E0%B8%88%E0%B8%B2%E0%B8%81-openstreetmap-%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2buildings-landuse-water-roads-e/4623659161012952/?locale=hi_IN)
 - [GitHub - prasertcbs/thailand_gis](https://github.com/prasertcbs/thailand_gis)
+- Test Script -> https://github.com/AhmedKhaled8/Visualizing-Geospatial-Data-in-Python
 
 ## Acknowledgement
 
